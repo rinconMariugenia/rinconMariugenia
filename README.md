@@ -24,6 +24,7 @@
 🌍 Idiomas: Inglés B2.
 
 
+
 # 📂 Proyectos Destacados
 
 ## 🐍📊 Análisis de factibilidad de inventarios de la distribuidora de licores Elixir Emporium
