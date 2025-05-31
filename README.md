@@ -43,6 +43,7 @@ Generar reportes de visualización a partir de los requerimientos del usuario/cl
 ## 📊 Visualizando el rendimiento de AWC con Power BI
 Diseñar soluciones en base a los datos presentados y/o lo pretendido por el usuario/cliente. 
 Generar reportes de visualización a partir de los requerimientos del usuario/cliente, implementado en Power BI.
+[Link de proyecto](https://github.com/rinconMariugenia/Proyecto-Adventureworks-Cycles-Individual.git)
 
 ## 📊 Proyecto Incendios Forestales en Argentina
 Tablero diseñado para el análisis de datos sobre incendios forestales en Argentina.
