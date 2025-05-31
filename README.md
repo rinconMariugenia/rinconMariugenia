@@ -54,6 +54,7 @@ Creación de mapa de las provincias argentinas usando un archivo GeoJSON.
 ## 📊 Dashboard de Ventas Globales
 Análisis de ventas por región, producto y rentabilidad.
 Implementado en Power BI con visualizaciones avanzadas.
+[Link de proyecto](https://github.com/rinconMariugenia/Analisis-De-Ventas.git)
 
 ## 🧪 QA Testing en Aplicaciones Web
 Creación de casos de prueba y ejecución manual.
