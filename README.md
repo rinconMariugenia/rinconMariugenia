@@ -49,6 +49,7 @@ Generar reportes de visualización a partir de los requerimientos del usuario/cl
 Tablero diseñado para el análisis de datos sobre incendios forestales en Argentina.
 Generar reporte de visualización con Power BI.
 Creación de mapa de las provincias argentinas usando un archivo GeoJSON.
+[Link de proyecto](https://github.com/rinconMariugenia/Proyecto-Incendios-Forestales-en-Argentina.git)
 
 ## 📊 Dashboard de Ventas Globales
 Análisis de ventas por región, producto y rentabilidad.
