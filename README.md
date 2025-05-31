@@ -32,6 +32,7 @@ Determinar los niveles óptimos de inventario para los diferentes tipos de licor
 Identificar oportunidades para reducir los desabastecimientos y el exceso de inventario. 
 Analizar la rotación del inventario. 
 Todo implementado en Power BI, SQL Server, Python y GCP.
+[Link de proyecto](https://github.com/rinconMariugenia/Factibilidad-de-Inventarios-Grupal.git)
 
 ## 📊🐍 Expansión Estratégica de Biogenesys con Python
 Analizar indicadores de salud para priorizar estrategias y recursos en las áreas de mayor impacto.
