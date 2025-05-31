@@ -38,6 +38,7 @@ Todo implementado en Power BI, SQL Server, Python y GCP.
 Analizar indicadores de salud para priorizar estrategias y recursos en las áreas de mayor impacto.
 Identificar correlaciones entre factores de riesgo y su impacto en la salud poblacional, proporcionando a la organización una base sólida para la planificación y ejecución de programas de mejora.
 Generar reportes de visualización a partir de los requerimientos del usuario/cliente con Power BI y conexión con Python.
+[Link de proyecto](https://github.com/rinconMariugenia/PIM4-Farmaceutica-Biogenesys-Individual.git)
 
 ## 📊 Visualizando el rendimiento de AWC con Power BI
 Diseñar soluciones en base a los datos presentados y/o lo pretendido por el usuario/cliente. 
